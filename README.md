@@ -62,6 +62,7 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+<img width="1245" height="891" alt="Screenshot 2026-11-25 105223" src="https://github.com/user-attachments/assets/857abf1d-548d-4b27-913f-5ecc29ab9d58" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -84,7 +85,8 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-![Uploading Screenshot 2026-11-25 105256.png…]()
+<img width="1237" height="897" alt="Screenshot 2026-11-25 105256" src="https://github.com/user-attachments/assets/5e3b1da0-5a56-488c-b8c8-7533d64fc5df" />
+
 
 
 
@@ -102,8 +104,8 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="1243" height="892" alt="Screenshot 2026-11-25 105355" src="https://github.com/user-attachments/assets/69faa8b7-9c98-4d38-83c6-d57f8b605f00" />
 
-![Uploading Screenshot 2026-11-25 105355.png…]()
 
 
 
@@ -125,7 +127,8 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-![Uploading Screenshot 2026-11-25 105425.png…]()
+<img width="1235" height="893" alt="Screenshot 2026-11-25 105425" src="https://github.com/user-attachments/assets/055c48a1-0a8b-48b9-8209-5a7647cb2809" />
+
 
 
 
