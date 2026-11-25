@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040168
+# Name:Kanishka G
+# Date:25-11-2026
 
 
 # AIM:
@@ -42,6 +42,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1242" height="895" alt="Screenshot 2026-11-25 105146" src="https://github.com/user-attachments/assets/90a62dc7-3927-4914-9cc7-017fae9926d7" />
 
 
 
@@ -62,6 +63,7 @@ Create detailed charts that…
 
 
 
+
 # COMMUNICTION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
@@ -69,6 +71,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1247" height="895" alt="Screenshot 2026-11-24 114751" src="https://github.com/user-attachments/assets/66096015-87af-462b-86a3-f77507cd50f7" />
 
 
 # PACKAGE DIAGRAM:
@@ -81,6 +84,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+![Uploading Screenshot 2026-11-25 105256.png…]()
 
 
 
@@ -99,6 +103,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+![Uploading Screenshot 2026-11-25 105355.png…]()
 
 
 
@@ -120,6 +125,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+![Uploading Screenshot 2026-11-25 105425.png…]()
 
 
 
